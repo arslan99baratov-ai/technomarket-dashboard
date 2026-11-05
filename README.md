@@ -2,7 +2,7 @@
 
 Интерактивный дашборд в Power BI для анализа продаж магазина электроники TechnoMarket (Узбекистан). Данные хранятся в MS SQL Server, отчёт подключён к базе напрямую.
 
-![Дашборд](technomarket-datshord.png)
+![dashboard](https://raw.githubusercontent.com/arslan99baratov-ai/technomarket-dashboard/main/technomarket-dashboard.png)
 
 ## Задача
 
